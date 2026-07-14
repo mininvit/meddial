@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=MedDial
-Exec=python3 __DIR__/meddial.py %u
-StartupNotify=false
-Terminal=false
-MimeType=x-scheme-handler/meddial;
-NoDisplay=true
